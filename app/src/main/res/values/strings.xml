@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LetsRead</string>
+    <!--<string name="txt_head1">good</string>
+    <string name="edt_id">Apple ID</string>
+    <string name="edt_pwd">Password</string>
+    <string name="txt_des1">Your Apple ID is the email address or mobile phone number you use to sign in to iTunes, the App Store, and iCloud.</string>
+    <string name="btn_sin">Sign In</string>
+
+    <string name="txt_head2">Create Your Apple ID.</string>
+    <string name="edt_fn">first name</string>
+    <string name="edt_ln">last name</string>
+    <string name="edt_mail">name@example.com</string>
+    <string name="edt_cpw">confirm password</string>
+    <string name="edt_phn">phone number</string>
+    <string name="txt_des2">Make sure you enter a phone number you can always access. It will be used to verify your identity any time you sign in on a new device or web browser. Messaging or data rates may apply.</string>
+    <string name="btn_sup">Sign Up</string>
+
+    <string name="btn_buy">Buy</string>-->
+
+
+
+</resources>
