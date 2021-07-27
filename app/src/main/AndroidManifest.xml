@@ -23,6 +23,7 @@
         <activity android:name=".Activity2_SignUp"/>
         <activity android:name=".Activity3_SignIn"/>
         <activity android:name=".Activity5_base"/>
+        <receiver android:name=".AlertReceiver"/>
 
     </application>
 
