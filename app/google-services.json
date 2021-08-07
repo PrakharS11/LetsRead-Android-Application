@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1016649806185",
+    "project_id": "letsread-b2e08",
+    "storage_bucket": "letsread-b2e08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016649806185:android:47bc3f4b79f934ba384df8",
+        "android_client_info": {
+          "package_name": "com.codingwithmonk.LetsRead"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016649806185-t8q3aiuo83b7hnj2o9i23dqikqb857ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrILDewTyMe2HivVp_McXoNQhUYcqiwLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016649806185-t8q3aiuo83b7hnj2o9i23dqikqb857ps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

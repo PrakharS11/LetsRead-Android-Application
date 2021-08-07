@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest
     xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.myapplication2">
+    package="com.codingwithmonk.LetsRead">
 
     <application
         android:allowBackup="true"
@@ -9,7 +9,7 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.MyApplication2"
+        android:theme="@style/AppTheme"
         android:fullBackupContent="@xml/my_backup_rules">
         <activity android:name=".Activity0_SplashScreen">
             <intent-filter>
@@ -19,10 +19,8 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".Activity1"/>
-        <activity android:name=".Activity2_SignUp"/>
-        <activity android:name=".Activity3_SignIn"/>
-        <activity android:name=".Activity5_base"/>
+        <activity android:name=".Activity_base"
+            android:theme="@style/AppTheme.NoActionBar"/>
         <receiver android:name=".AlertReceiver"/>
 
     </application>
